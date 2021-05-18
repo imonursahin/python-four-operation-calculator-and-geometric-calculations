@@ -14,7 +14,7 @@ KULLANIMI:
 
 Anaconda da Çalıştırmak İçin; 
 
-+ cagir.py modül dosyasını anaconda klasöründeki Lib klasörüne yükleyin. Daha sonra hesapmak.py dosyasını çalıştırın.
++ cagir.py modül dosyasını anaconda klasöründeki Lib klasörüne yükleyin. Daha sonra hesapmak.py dosyasını çalıştırın...
 
 <img src="https://i.imgur.com/GHKQcQN.png" />
 
